@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.git
+play_by_play.csv
+nba.sqlite
