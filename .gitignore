@@ -131,3 +131,5 @@ dmypy.json
 .git
 play_by_play.csv
 nba.sqlite
+forward_test.csv
+/Logos
